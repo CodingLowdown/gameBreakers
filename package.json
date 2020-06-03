@@ -1,0 +1,25 @@
+{
+  "name": "gamebreaker",
+  "version": "1.0.0",
+  "description": "Game Breaker Code",
+  "main": "brick-breaker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingLowdown/gameBreaker.git"
+  },
+  "keywords": [
+    "breaker"
+  ],
+  "author": "Nicholas Lowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodingLowdown/gameBreaker/issues"
+  },
+  "homepage": "https://github.com/CodingLowdown/gameBreaker#readme",
+  "devDependencies": {
+    "eslint-config-p5js": "^1.0.1"
+  }
+}
